@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FFS Spotify</string>
+    <string name="action_grant_root">Grant root access to kill Spotify.</string>
+    <string name="action_select_device">Select a Bluetooth device to react to.</string>
+    <string name="label_selected_devices">Selected devices</string>
+</resources>
